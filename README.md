@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 This is Yijia Zheng's github profile. 
+
+- 🔭 I’m currently working on some research about... (more works are coming...)
+- 🤔 By the way, I’m looking for a suitable PhD position ~~strugglingly~~. 
+- ⚡ To be continued... (will update after I get my offer...)
 
 <!--
 **zhengyijia/zhengyijia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
