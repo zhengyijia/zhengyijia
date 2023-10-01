@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a PhD student at University of Amsterdam
 - 🤔 I have a broad interest in deep learning (e.g., graph deep learning, generative models, Neural-Symbolic AI, etc)
-- ⚡ I’m still training myself to be a better researcher 😄
+- ⚡ I’m still training myself to be a better researcher! 😄
 
 <!--
 **zhengyijia/zhengyijia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
