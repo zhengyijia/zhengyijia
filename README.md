@@ -1,8 +1,8 @@
 ### Hi there 👋 This is Yijia Zheng's github profile. 
 
-- 🔭 I’m currently working on some research about... (more works are coming...)
-- 🤔 By the way, I’m looking for a suitable PhD position ~~strugglingly~~. 
-- ⚡ To be continued... (will update after I get my offer...)
+- 🔭 I’m currently a PhD student at University of Amsterdam
+- 🤔 I have a broad interest in deep learning (e.g., graph deep learning, generative models, Neural-Symbolic AI, etc)
+- ⚡ I’m still training myself to be a better researcher 😄
 
 <!--
 **zhengyijia/zhengyijia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
