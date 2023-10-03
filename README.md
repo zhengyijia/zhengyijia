@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Yijia Zheng's github profile. 
 
-- 🔭 I’m currently a PhD student at University of Amsterdam
+- 🔭 I’m currently a PhD candidate at University of Amsterdam (UvA)
 - 🤔 I have a broad interest in deep learning (e.g., graph deep learning, generative models, Neural-Symbolic AI, etc)
 - ⚡ I’m still training myself to be a better researcher! 😄
 
